@@ -1,0 +1,20 @@
+Commits that exit in demo but don't exist in master:
+Merge branch 'buttons' into demo Andrew Khodzhakhanov 29.06.2016 2:29
+Merge branch 'boots' into release Andrew Khodzhakhanov 29.06.2016 0:55
+
+Commits that exit in master but don't exist in demo:
+Merge branch 'hat' Electropaskyda 8 minutes ago
+Merge branch 'buttons' into boots_buttons Electropaskyda 19 minutes ago
+Merge branch 'boots' into boots_buttons Electropaskyda 19 minutes ago
+fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+
+9 commit
+Merge branch 'hat'
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
